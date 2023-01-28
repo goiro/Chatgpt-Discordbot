@@ -9,7 +9,7 @@ import openai
 # Get the Discord and Chat GPT tokens from the environment variables
 DISCORD_BOT_TOKEN = os.environ['MTA2ODk0MDY3NTgwODIzMTQ0NA.GcX1U1.f8QHXswYh3XwC1PMhKfSe_eHwE_vYbPZxFPrUo']
 CHAT_GPT_TOKEN = os.environ['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']
-openai.api_key = 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
+openai.api_key = CHAT_GPT_TOKEN
 
 # Initialize the bot with the correct intents
 description = '''I am a bot'''
