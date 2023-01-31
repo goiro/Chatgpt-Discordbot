@@ -1,3 +1,4 @@
+Kamera wowo
 # Chatgpt Discordbot
 simple discord bot with chat gpt and some custom stuff  
 #Tokens  
